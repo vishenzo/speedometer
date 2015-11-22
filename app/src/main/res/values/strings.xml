@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="title_activity_main">Speedometer</string>
+    <string name="title_activity_average_speed">Vitesse moyenne</string>
+    <string name="gps_activation">Activation du GPS</string>
+    <string name="ask_gps_activation">Veuillez activer le GPS.</string>
+    <string name="gps_settings">Réglages</string>
+    <string name="cancel">Annuler</string>
+    <string name="chrono_base">00:00:00</string>
+    <string name="tv_title_average_speed">Votre vitesse moyenne depuis le dernier arrêt:</string>
+    <string name="libelle_speed">Vitesse instantanée:</string>
+    <string name="libelle_distance">Distance parcourue:</string>
+    <string name="libelle_time">Temps écoulé:</string>
+</resources>
